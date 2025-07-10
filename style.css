@@ -1,0 +1,10 @@
+p {
+    color: blue;
+}
+.local {
+    color: rgb(62, 113, 113);
+    font-size: 30px;
+}
+#10 {
+    color: rgba(220, 9, 9, 0);
+}
